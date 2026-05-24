@@ -7,3 +7,5 @@ if (media > 9) {
     
 }
 console.log("fim");
+
+// eu sou texto
